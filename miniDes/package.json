@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "npx ts-node src/dex.ts"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "anybase2": "^1.0.12",
+    "ts-node": "^10.9.2"
+  }
+}
